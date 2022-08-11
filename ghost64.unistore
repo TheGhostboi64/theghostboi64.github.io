@@ -1,1 +1,0 @@
-{"storeContent": [{"MettAnime": [{"file": "https://github.com/TheGhostboi64/unistore-source/raw/main/Mettanime.zip", "output": "/Mettanime.zip", "type": "downloadFile"}, {"file": "/Mettanime.zip", "input": "luma/", "output": "/", "type": "extractFile"}
