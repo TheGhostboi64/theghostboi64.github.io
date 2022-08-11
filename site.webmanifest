@@ -1,0 +1,14 @@
+{
+    "name": "Satella Zone - A Nintendo Zone Viewer Revival!",
+    "short_name": "Satella Zone - A Nintendo Zone Viewer Revival!",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

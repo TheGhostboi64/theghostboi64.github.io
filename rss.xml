@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"
+<channel>
+<title>Satella Zone News</title>
+<link>https://satellazone.neocities.org/news.html</link>
+<atom:link href="https://satellazone.neocities.org/rss.xml rel="self" type="application/rss+xml"/>
+<description>Welcome to the Satella Zone RSS Feed! Here, you'll find updates on pur revival in Nintendo Zone!</description>
+<pubDate>Mon, 18 Apr 2022 00:00:00 EDT</pubDate>
+<image>
+<url>https://satellazone.neocities.org/rsslogo.png</url>
+<title>Satella Zone News</title>
+<link>https://satellazone.neocities.org/news.html</link>
+<item>
+<title>Coming Soon: Satella Zone RSS Feed!</title>
+<link>https://satellazone.neocities.org/rssfeedcomingsoon.html</link>
+<guid>https://satellazone.neocities.org/rssfeedcomingsoon.html</guid>
+<pubDate>Thu, 28 Apr 2022 00:00:00 EDT</pubDate>
+</item>
+</channel>
+</rss>
