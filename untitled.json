@@ -1,0 +1,22 @@
+{
+  "META": {
+    "repoName": "Quantam Source for Scarlet",
+    "repoIcon": "https://quarksources.github.io/assets/ElementQ-Circled.png"
+  },
+   "Emulators": [
+{
+   "name": "emuThreeDS",
+   "version": "1.0.7.1",
+   "down": "https://github.com/emuPlace/emuThreeDS/releases/download/v1.0.7.1.2/emuThreeDS_v1.0.7.1.2.ipa",
+   "icon": "https://i.imgur.com/XUAH0bL.png",
+   "category": "Emulators",
+   "description": "v1.0.7.1.2",
+   "bundleID": "com.antique.emuThreeDS"
+   },
+  ]
+ }
+   
+   
+   
+   
+   
