@@ -30,7 +30,11 @@
   "bundleID": "com.ginsudev.WDBFontOverride",
   "icon": "https://i.imgur.com/SXK4rhS.png",
   "category": "Utilities",
-  "screenshots": ["https://user-images.githubusercontent.com/704768/209511898-a1477b66-28e4-471a-87d9-36c1c2eb25ca.png", "https://user-images.githubusercontent.com/704768/209606970-a382c273-bdcb-425c-bca1-1b6f9b31862f.png", "https://user-images.githubusercontent.com/704768/209753262-b8204c92-b873-41a7-8127-38bf86096470.png"],
+  "screenshots": [
+    "https://user-images.githubusercontent.com/704768/209511898-a1477b66-28e4-471a-87d9-36c1c2eb25ca.png",
+"https://user-images.githubusercontent.com/704768/209606970-a382c273-bdcb-425c-bca1-1b6f9b31862f.png",
+"https://user-images.githubusercontent.com/704768/209753262-b8204c92-b873-41a7-8127-38bf86096470.png"
+  ],
   "version": "1.10.8",
   "description": "# v1.10.8\n\n- Updated grant_full_disk_access.\r\n- Concurrency and code improvements/fixes.",
   "down": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa"
@@ -43,7 +47,7 @@
   "category": "Emulators",
   "description": "Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS. Delta is the spiritual successor to GBA4iOS \u2014 a Game Boy Advance emulator for iOS devices Paul Thorsen and I made while in high school together \u2014 rebuilt from the ground up with modern iOS features and support for more systems.\n\nSupported Game Systems\n\u2022 Nintendo Entertainment System \u0028NES\u0029\n\u2022 Super Nintendo Entertainment System \u0028SNES\u0029\n\u2022 Nintendo 64 \u0028N64\u0029\n\u2022 Game Boy \u0028Color\u0029 \u0028GB/GBC\u0029\n\u2022 Game Boy Advance\u0028GBA\u0029\n\u2022 Nintendo DS\u0028i\u0029 \u0028NDS\u0029\n\u2022 Sega Genesis / Mega Drive \u0028GEN/MD\u0029 \u0028in beta\u0029\n\nFeatures\nAccurate, full speed emulation thanks to mature underlying cores.\n\u2022 NES: Nestopia\n\u2022 SNES: Snes9x\n\u2022 N64: mupen64plus\n\u2022 GBC: Gambattle\n\u2022 GBA: visualboyadvance-m\n\u2022 DS: melonDS\n\u2022 GEN: Genesis Plus GX\n\nBeautiful, native UI.\n\u2022 Browse and play your favorite games with a UI designed from the ground up for iOS.\n\u2022 Automatically displays appropriate box art for imported games.\n\u2022 Change a game\u2018s artwork to anything you want, or select from the built-in game artwork database.\n\nController Support\n\u2022 Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n\u2022 Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n\u2022 Completely customize button mappings on a per-system, per-controller basis.\n\u2022 Map buttons to special \u201cQuick Save\u201d, \u201cQuick Load\u201d, and \u201cFast Forward\u201d actions.\n\nCustom Controller Skins\n\u2022 Beautiful built-in controller skins for all systems.\n\u2022 Import controller skins made by others, or even make your own to share with the world!\n\nSave States\n\u2022 Save and load save states for any game from the pause menu.\n\u2022 Lock save states to prevent them from being accidentally overwritten.\n\u2022 Automatically makes backup save states to ensure you never lose your progress.\n\u2022 Support for \u201cQuick Saves,\u201d save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nFast Forwarding\n\u2022 Speed through slower parts of games by running the game much faster than normal.\n\u2022 Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\nDelta Sync\n\u2022 Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n\u2022 View version histories of everything you sync and optionally restore them to earlier versions.\n\u2022 Supports both Google Drive and Dropbox.\n\nHold Button\n\u2022 Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n\u2022 Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\n3D/Haptic Touch\n\u2022 Use 3D or Haptic Touch to \u201cpeek\u201d at games, save states, and cheat codes.\n\u2022 App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nCheats\n\u2022 Supports various types of cheat codes for each supported system:\n\u2022 NES: Game Genie\n\u2022 SNES: Game Genie, Pro Action Replay\n\u2022 N64: GameShark\n\u2022 GBC: Game Genie, GameShark\n\u2022 GBA: Action Replay, Code Breaker, GameShark\n\u2022 DS: Action Replay\n\u2022 Gyroscope support (WarioWare: Twisted! only)\n\u2022 Microphone support (DS only)\n\nLinks\n\u2022 GBA4iOS \u0028http://www.gba4iosapp.com\u0029\n\u2022 Paul Thorson \u0028https://twitter.com/paulthor\u0029\n\u2022 Nestopia \u0028https://github.com/0ldsk00l/nestopia\u0029\n\u2022 Snes9x \u0028https://github.com/snes9xgit/snes9x\u0029\n\u2022 mupen64plus \u0028https://github.com/mupen64plus/mupen64plus-core\u0029\n\u2022 Gambattle \u0028https://github.com/sinamas/gambatte\u0029\n\u2022 visualboyadvance-m \u0028https://github.com/visualboyadvance-m/visualboyadvance-m\u0029\n\u2022 melonDS \u0028https://github.com/Arisotura/melonDS\u0029\n\u2022 Genesis Plus GX \u0028https://github.com/ekeeke/Genesis-Plus-GX\u0029\n\nDelta and AltStore are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.",
     "version": "1.4",
-  "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
+  "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa"
   },
   {
   "name": "VCMI"
@@ -51,11 +55,21 @@
   "dev": "VCMI Team",
   "description": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
   "icon": "https://github.com/vcmi/vcmi/raw/develop/client/icons/vcmiclient.512x512.png"
-  "screenshots": ["https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot1.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot2.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot3.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot4.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot5.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot6.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot7.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot8.png", "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot9.png"],
+  "screenshots": [
+    "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot1.png",
+    "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot2.png",
+    "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot3.png",
+  "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot4.png",
+  "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot5.png",
+  "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot6.png",
+  "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot7.png",
+  "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot8.png",
+  "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot9.png"
+  ],
  "version": "1.4.5",
  "changelog": "# VCMI 1.4.5\n\nWarning: saved games from 1.3 release are not supported\r\n\r\n### Changelog\r\n* Fixed crash on creature spellcasting\r\n* Fixed crash on unit entering magical obstacles such as quicksands\r\n* Fixed freeze on map loading on some systems\r\n* Fixed crash on attempt to start campaign with unsupported map\r\n* Fixed crash on opening creature information window with invalid SPELL_IMMUNITY bonus\r\n* Fixed placement of guards sometimes resulting into open connection into third zone\r\n* Fixed rare crash on multithreaded access during placement of artifacts or wandering monsters\r\n* Fixed inspector using wrong editor for some values\r\n* Fixed bug leading to AI not attacking wandering monsters in some cases\r\n* Fixed crash on using StupidAI for autocombat or for enemy players.",
  "category": "Games",
- "down": "https://github.com/vcmi/vcmi/releases/download/1.4.5/VCMI-iOS.ipa",
+ "down": "https://github.com/vcmi/vcmi/releases/download/1.4.5/VCMI-iOS.ipa"
  },
  {
  "name": "PPSSPP",
@@ -64,9 +78,14 @@
  "category": "Emulators",
  "description": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
  "icon": "https://i.imgur.com/JP0Fncv.png",
- "screenshots": ["https://i.imgur.com/CWl6GgH.png", "https://i.imgur.com/SxmN1M0.png", "https://i.imgur.com/sGWgR6z.png", "https://i.imgur.com/AFKTdmZ.png"],
+ "screenshots": [
+  "https://i.imgur.com/CWl6GgH.png",
+  "https://i.imgur.com/SxmN1M0.png",
+  "https://i.imgur.com/sGWgR6z.png", 
+  "https://i.imgur.com/AFKTdmZ.png"
+],
  "version": "1.17.1",
- "down": "https://zjueducn-my.sharepoint.com/personal/21021161_zju_edu_cn/_layouts/15/download.aspx?UniqueId=4f29586f-99d6-48e1-b270-134dde9433e4&Translate=false&tempauth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfZGlzcGxheW5hbWUiOiJPbmVEcml2ZSBmb3IgQVBJIiwiYXBwaWQiOiI3OGQ0ZGMzNS03ZTQ2LTQyYzYtOTAyMy0yZDM5MzE0NDMzYTUiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvemp1ZWR1Y24tbXkuc2hhcmVwb2ludC5jb21AZWI1ZmMwZjQtMjE2MS00MGQ4LTg0OTItNTE1OTQyNDQ5NzkzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDA1YzM4YmM1ZkBsaXZlLmNvbSIsImNpZCI6ImY2NTN6aStjMGtxUHhidUJBNm5UL0E9PSIsImVuZHBvaW50dXJsIjoiTkdOdkFEaDVnNkJKeFlXZDRqemhxam1mRTQxVGNMU2JtR01Pbk5hTDI3az0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE1MSIsImV4cCI6IjE3MTMwNDIxNzAiLCJmYW1pbHlfbmFtZSI6IldhbmciLCJnaXZlbl9uYW1lIjoiUGx1dG8iLCJpcGFkZHIiOiIyMC4xOTAuMTQxLjQ2IiwiaXNsb29wYmFjayI6IlRydWUiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNzEzMDM4NTcwIiwicHVpZCI6IjEwMDMyMDAwNUMzOEJDNUYiLCJzY3AiOiJhbGxmaWxlcy53cml0ZSBhbGxwcm9maWxlcy5yZWFkIiwic2l0ZWlkIjoiTWpRMk1ETXlOekV0Tm1JMlpDMDBZakpsTFdJMk0yTXRPRGd3TXpoa05HWTBZakZoIiwidGlkIjoiZWI1ZmMwZjQtMjE2MS00MGQ4LTg0OTItNTE1OTQyNDQ5NzkzIiwidHQiOiIyIiwidXBuIjoiMjEwMjExNjFAemp1LmVkdS5jbiIsInZlciI6Imhhc2hlZHByb29mdG9rZW4ifQ.8NubcDaTbG7upbeahn4hgBJqdrUGeG9GDvBbLEhN9oM&ApiVersion=2.0",
+ "down": "https://bucket.usescarlet.com/scarletapps/PPSSPP_v1.15.4-69-gca75e2015.ipa"
  },
  {
  "name": "Firebird Emu",
@@ -78,7 +97,7 @@
  "icon": "https://i.imgur.com/U2HvZFZ.png",
  "screenshots": ["https://imgur.com/LT1u2bi"],
  "changelog": "This version's changelog is too much for the repo! Check out the changelog at https://github.com/nspire-emus/firebird/releases/tag/v1.6",
-"down": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
+"down": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa"
  },
  {
  "name": "ActiveGS iOS",
@@ -89,7 +108,7 @@
  "description": "# 2021.9",
 "screenshots": ["https://i.imgur.com/8xekjhv.png", "https://i.imgur.com/JFd6LiM.png", "https://i.imgur.com/4ZE0DbB.png"],
  "icon": "https://i.imgur.com/7LuLkoR.png",
- "down": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
+ "down": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa"
  },
  {
  "name": "Ready",
@@ -101,7 +120,7 @@
  "screenshots": ["https://i.imgur.com/CN3fR34.png", "https://i.imgur.com/q8ueM8W.png", "https://i.imgur.com/2EHk0Wp.png", "https://i.imgur.com/F3bXlmW.png"],
  "version": "1.6",
  "changelog": "# Release 1.6\n\n- Rename to Ready.\r\n\r\n- Add Commodore 16 and Plus/4 emulation.\r\n\r\n- Add ZX Spectrum emulation. Supported models are 16k, 48k, Specturm+, 128k, +2.\r\n\r\n- Add new app icons, one for each supported computer.\r\n",
- "down": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
+ "down": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa"
  },
  {
  "name": "DolphiniOS",
@@ -113,7 +132,7 @@
  "changelog": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
  "icon": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
  "screenshots": ["https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG", "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG", "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG", "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"],
- "down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+ "down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa"
  },
  {
  "name": "MAME4iOS",
@@ -125,7 +144,7 @@
  "icon": "https://i.imgur.com/gZCjhLl.png",
  "screenshots": ["https://i.imgur.com/0JkUpEA.png", "https://i.imgur.com/UJXiIUM.png"],
  "changelog": "# 2022.5\n\n* Updated to \u005bMAME 250\u005d\u0028https://www.mamedev.org/releases/whatsnew_0250.txt\u0029.\r\n* tvOS UX: use a Alert instead of a inline Segmented Control.\r\n* Show upload feedback in Web Server UX.\r\n* Added `Make First Favorite` to game context menu.\r\n",
- "down": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-139.ipa",
+ "down": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-139.ipa"
  },
  {
  "name": "OldOS",
@@ -135,7 +154,7 @@
  "icon": "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/OldOS/OldOS/Assets.xcassets/AppIcon.appiconset/1024.png",
  "screenshots": ["https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_1.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_2.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_3.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_4.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_5.jpg"],
  "changelog": "# IPA V1.0 Build 18\n\n1.0 \u002818\u0029:\r\n- Mail is here! This is a full-blown email client, no ifs, ands, or buts\r\n- View mailboxes, read emails, move emails, manage inbox, and send emails\r\n- Fixes to YouTube backend\r\n- Other bug fixes",
- "down": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+ "down": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa"
  },
  {
  "name": "unc0ver",
@@ -147,7 +166,7 @@
  "icon": "https://i.imgur.com/5aehDxj.png",
  "screenshots": ["https://i.imgur.com/ItMaRRV.png", "https://i.imgur.com/bjzyqpY.png", "https://i.imgur.com/3TMGkaO.png", "https://i.imgur.com/gTYfncm.png"],
  "changelog": "# v8.0.2 Release\n\n- Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\r\n- Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8",
- "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+ "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa"
  },
  {
  "name": "iTorrent",
@@ -158,7 +177,7 @@
  "icon": "https://i.imgur.com/C3KwMP5.png",
  "screenshots": ["https://i.imgur.com/0o7qou3.png", "https://i.imgur.com/sO510zC.png", "https://i.imgur.com/MQPWxYz.png", "https://i.imgur.com/xTAo5uE.png"],
  "changelog": "What's new:\n\n\u2022 Text accessibility support added\n\u2022 Huge backend refactoring\n\u2022 Libtorrent updated to 1.2.9\n\u2022 Minor UI improvements\n\u2022 Many bugs fixed \u0028possibly new ones added\u0029",
- "down": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
+ "down": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa"
  },
  {
  "name": "GBA4iOS X",
@@ -169,7 +188,7 @@
  "description": "GBA4iOS is back in all its 2014 glory, and has been recompiled and updated for for iOS 17!\n\nFEATURES\n\u2022 Emulator core based on VBA-M\n\u2022 iPad Support\n\u2022 Full GBC game compatibility\n\u2022Cheat Codes\n\u2022 Customizable Skins\n\u2022 Sustain Button\n\u2022 Event Distribution\n\u2022 Wario Ware: Twisted Support\n\u2022 iOS 7 Controller support\n\u2022 URL Scheme support \u0028gba4ios://ROM%20Name%20Here\u0029",
  "icon": "https://iosninja.io/img/ipas/gba4ios.png",
  "screenshots": ["https://f000.backblazeb2.com/file/rileytestut/screenshots/GBA4iOS_GBA.PNG", "https://f000.backblazeb2.com/file/rileytestut/screenshots/GBA4iOS_GBC.PNG", "https://f000.backblazeb2.com/file/rileytestut/screenshots/GBA4iOS_Settings.PNG"],
- "down": "https://cdn.altstore.io/file/altstore/apps/gba4ios/3_0.ipa",
+ "down": "https://cdn.altstore.io/file/altstore/apps/gba4ios/3_0.ipa"
  }, 
  { 
  "name": "RetroArch",
@@ -181,7 +200,7 @@
  "icon": "https://i.imgur.com/pqgVB0v.png",
  "screenshots": ["https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot1.png", "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot2.png", "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot3.png", "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot4.png", "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot5.png"],
  "changelog": "Too much awesome stuff to fit in this little space! Check out the blog at libretro.com.",
- "down": "https://buildbot.libretro.com/stable/1.17.0/apple/ios-arm64/RetroArch.ipa",
+ "down": "https://buildbot.libretro.com/stable/1.17.0/apple/ios-arm64/RetroArch.ipa"
  },
  {
  "name": "Rewound",
@@ -193,7 +212,7 @@
  "icon": "https://i.imgur.com/LfIRxqb.png",
  "screenshots": ["https://i.imgur.com/IfLobOR.png", "https://i.imgur.com/IJcJ6WG.png", "https://i.imgur.com/dVjieD9.png", "https://i.imgur.com/kmC3NtZ.png"],
  "changelog": "Small fixes.",
- "down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
- }
- ]
+ "down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa"
+   }
+  ]
  }
