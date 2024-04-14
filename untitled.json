@@ -95,7 +95,7 @@
  "name": "Ready",
  "bundleID": "at.spiderlab.c64",
  "dev": "T-Pau",
- "category": "Emulators"
+ "category": "Emulators",
  "description": "Ready",
  "icon": "https://i.imgur.com/S9WS2C2.png",
  "screenshots": ["https://i.imgur.com/CN3fR34.png", "https://i.imgur.com/q8ueM8W.png", "https://i.imgur.com/2EHk0Wp.png", "https://i.imgur.com/F3bXlmW.png"],
@@ -108,7 +108,7 @@
  "bundleID": "me.oatmealdome.dolphinios-njb",
  "category": "Emulators",
  "dev": "OatmealDome",
- "version": "3.2.1"
+ "version": "3.2.1",
  "description": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
  "changelog": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
  "icon": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
@@ -134,7 +134,7 @@
  "description": "OldOS",
  "icon": "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/OldOS/OldOS/Assets.xcassets/AppIcon.appiconset/1024.png",
  "screenshots": ["https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_1.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_2.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_3.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_4.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_5.jpg"],
- "changelog": "# IPA V1.0 Build 18\n\n1.0 (18):\r\n- Mail is here! This is a full-blown email client, no ifs, ands, or buts\r\n- View mailboxes, read emails, move emails, manage inbox, and send emails\r\n- Fixes to YouTube backend\r\n- Other bug fixes",
+ "changelog": "# IPA V1.0 Build 18\n\n1.0 \u002818\u0029:\r\n- Mail is here! This is a full-blown email client, no ifs, ands, or buts\r\n- View mailboxes, read emails, move emails, manage inbox, and send emails\r\n- Fixes to YouTube backend\r\n- Other bug fixes",
  "down": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
  },
  {
@@ -154,7 +154,7 @@
  "bundleID": "ru.nonamedude.iTorrent",
  "version": "1.8.3",
  "dev": "XITRIX",
- "description": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n\u2022 Download in the background\n\u2022 Sequential download (use VLC to watch films while loading)\n\u2022 Add torrent files from Share menu (Safari and other apps)\n\u2022 Add magnet links directly from Safari\n\u2022 Store files in Files app (iOS 11+)\n\u2022 File sharing directly from app\n\u2022 Download torrent by link\n\u2022 Download torrent by magnet\n\u2022 Send notification on torrent downloaded\n\u2022 FTP Server (unstable)\n\u2022 Select files to download or not\n\u2022 Change UI to dark theme\n\nNow supporting these localizations:\n\u2022 English\n\u2022 Russian\n\u2022 Turkish",
+ "description": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n\u2022 Download in the background\n\u2022 Sequential download \u0028use VLC to watch films while loading\u0029\n\u2022 Add torrent files from Share menu \u0028Safari and other apps\u0029\n\u2022 Add magnet links directly from Safari\n\u2022 Store files in Files app \u0028iOS 11+\u0029\n\u2022 File sharing directly from app\n\u2022 Download torrent by link\n\u2022 Download torrent by magnet\n\u2022 Send notification on torrent downloaded\n\u2022 FTP Server \u0028unstable\u0029\n\u2022 Select files to download or not\n\u2022 Change UI to dark theme\n\nNow supporting these localizations:\n\u2022 English\n\u2022 Russian\n\u2022 Turkish",
  "icon": "https://i.imgur.com/C3KwMP5.png",
  "screenshots": ["https://i.imgur.com/0o7qou3.png", "https://i.imgur.com/sO510zC.png", "https://i.imgur.com/MQPWxYz.png", "https://i.imgur.com/xTAo5uE.png"],
  "changelog": "What's new:\n\n\u2022 Text accessibility support added\n\u2022 Huge backend refactoring\n\u2022 Libtorrent updated to 1.2.9\n\u2022 Minor UI improvements\n\u2022 Many bugs fixed \u0028possibly new ones added\u0029",
