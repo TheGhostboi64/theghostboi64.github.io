@@ -287,7 +287,7 @@
    "icon": "https://i.imgur.com/cgrsWgC.png",
    "screenshots": [
    "https://i.imgur.com/nFunb9n.png",
-   "https://i.imgur.com/7UvBK4J.png
+   "https://i.imgur.com/7UvBK4J.png"
    ],
    "changelog": "# File hashes when selecting files\n\n### XPatcher 2.2\r\n### A small updated with a little feature \r\n\r\nNow when you select a file in the Documents tab, it will show SHA1, MD5, and CRC32 hashes of the selected file.\r\nclosing #5\r\nother changes might be adding .vcdiff to the recognized patch formats (XDelta) but so far it seems kinda broken as stated in #6 .\r\n\r\n**Full Changelog**: https://github.com/Wh0ba/XPatcher/compare/2.0...v2.2",
    "down": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa"
