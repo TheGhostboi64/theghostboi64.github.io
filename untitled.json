@@ -151,6 +151,7 @@
  "bundleID": "com.zurac.OldOS",
  "dev": "zzanehip",
  "description": "OldOS",
+"category": "Emulators",
  "icon": "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/OldOS/OldOS/Assets.xcassets/AppIcon.appiconset/1024.png",
  "screenshots": ["https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_1.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_2.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_3.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_4.jpg", "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_5.jpg"],
  "changelog": "# IPA V1.0 Build 18\n\n1.0 \u002818\u0029:\r\n- Mail is here! This is a full-blown email client, no ifs, ands, or buts\r\n- View mailboxes, read emails, move emails, manage inbox, and send emails\r\n- Fixes to YouTube backend\r\n- Other bug fixes",
