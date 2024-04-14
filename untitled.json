@@ -54,7 +54,7 @@
   "bundleID": "eu.vcmi.vcmiclient",
   "dev": "VCMI Team",
   "description": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
-  "icon": "https://github.com/vcmi/vcmi/raw/develop/client/icons/vcmiclient.512x512.png"
+  "icon": "https://github.com/vcmi/vcmi/raw/develop/client/icons/vcmiclient.512x512.png",
   "screenshots": [
     "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot1.png",
     "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot2.png",
