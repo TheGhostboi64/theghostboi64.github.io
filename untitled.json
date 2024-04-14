@@ -3,7 +3,7 @@
     "repoName": "Quantam Source for Scarlet",
     "repoIcon": "https://quarksources.github.io/assets/ElementQ-Circled.png"
   },
-   "Emulators": [
+   "Apps": [
 {
    "name": "emuThreeDS",
    "version": "1.0.7.1",
@@ -188,6 +188,7 @@
  "bundleID": "com.louisanslow.rewound",
  "dev": "Louis Anslow",
  "version": "2019.7",
+"category": "Utilities",
  "description": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
  "icon": "https://i.imgur.com/LfIRxqb.png",
  "screenshots": ["https://i.imgur.com/IfLobOR.png", "https://i.imgur.com/IJcJ6WG.png", "https://i.imgur.com/dVjieD9.png", "https://i.imgur.com/kmC3NtZ.png"],
