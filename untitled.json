@@ -305,7 +305,7 @@
    "https://ish.app/assets/front-iphone-full.png"
    ],
    "down": "https://github.com/ish-app/ish/releases/download/builds%2F494/iSH.ipa"
-   }
+   },
    {
    "name": "Play!",
    "version": "0.64",
@@ -409,7 +409,7 @@
    "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
    ],
    "changelog": "See changelog https://github.com/Provenance-Emu/Provenance/releases",
-   "down": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
+   "down": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa"
    },
   {
   "name": "Flycast",
@@ -428,7 +428,7 @@
  "down": "https://github.com/flyinghead/flycast/releases/download/v2.3/Flycast-2.3.1.ipa"
  },
  {
- "name": "PokeMMO"
+ "name": "PokeMMO",
  "bundleID": "eu.pokemmo.client",
  "dev": "PokeMMO",
  "version": "26211",
@@ -440,7 +440,7 @@
  "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
  "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
  ],
- "down": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=26211",
+ "down": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=26211"
  }, 
  {
  "name": "Ignited",
