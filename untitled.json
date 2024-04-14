@@ -140,7 +140,7 @@
  "category": "Emulators",
  "dev": "yoshisuga",
  "version": "2022.5",
- "description": "MAME stands for Multi Arcade Machine Emulator. This app lets you play arcade games from the past 30+ years on your iPhone, iPad, macOS, or AppleTV.\n\nMore than 2000 games are supported, and the currently supported romset version is MAME 0.139u1 \u0028September 2010\u0029.\n\nOther nifty features include:\n* 64-bit binary to run on modern and future iOS devices\n* Supports modern device screen sizes, including iPhone X/XR/XS/XS Max and iPad Pro\n* A native iOS/iPadOS/tvOS frontend \u0028by ToddLa, new in 2020!\u0029\n* A native Metal rendering engine \u0028by ToddLa, new in 2020!\u0029\n* tvOS support \u0028new in 2019!\u0029\n* An in-app web server to transfer files from your computer \u0028new in 2019!\u0029\n* Transfer ROMs, Artwork, and ROMSETs via AirDrop or iOS File Sharing \u0028new in 2020!\u0029\n* Multiple MFI controllers \u0028up to 4 with dual analog support - DarrenBranford\u0029\n* Supports using the touch screen as a lightgun\n* Turbo mode toggle for buttons\n* Touch analog for games like Arkanoid\n* Builds in Xcode 11.x/12.x and runs on latest iOS 13/14 versions.",
+ "description": "Mame is an emulator.",
  "icon": "https://i.imgur.com/gZCjhLl.png",
  "screenshots": ["https://i.imgur.com/0JkUpEA.png", "https://i.imgur.com/UJXiIUM.png"],
  "changelog": "# 2022.5\n\n* Updated to \u005bMAME 250\u005d\u0028https://www.mamedev.org/releases/whatsnew_0250.txt\u0029.\r\n* tvOS UX: use a Alert instead of a inline Segmented Control.\r\n* Show upload feedback in Web Server UX.\r\n* Added `Make First Favorite` to game context menu.\r\n",
@@ -210,7 +210,12 @@
 "category": "Utilities",
  "description": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
  "icon": "https://i.imgur.com/LfIRxqb.png",
- "screenshots": ["https://i.imgur.com/IfLobOR.png", "https://i.imgur.com/IJcJ6WG.png", "https://i.imgur.com/dVjieD9.png", "https://i.imgur.com/kmC3NtZ.png"],
+ "screenshots": [
+  "https://i.imgur.com/IfLobOR.png",
+  "https://i.imgur.com/IJcJ6WG.png",
+  "https://i.imgur.com/dVjieD9.png",
+  "https://i.imgur.com/kmC3NtZ.png"
+],
  "changelog": "Small fixes.",
  "down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa"
    }
