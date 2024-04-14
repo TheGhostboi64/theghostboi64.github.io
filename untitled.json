@@ -372,7 +372,7 @@
    "down": "https://github.com/utmapp/UTM/releases/download/v4.4.5/UTM-HV.ipa"
    },
    {
-   "name": "UTM",
+   "name": "UTM SE",
    "bundleID": "com.utmapp.UTM-SE",
    "category": "Emulators",
    "dev": "osy",
@@ -391,6 +391,39 @@
    ],
    "down": "https://github.com/utmapp/UTM/releases/download/v4.4.5/UTM-SE.ipa"
    }, 
+   {
+   "name": "iDOS",
+   "bundleID": "com.litchie.idosgames",
+   "version": "2.1",
+   "category": "Emulators",
+   "dev": "litchie",
+   "description": "Play classic DOS games on your iPhone and iPad!\n\niDOS turns your device right into a powerful DOS gaming PC, with modern game control to make your old favorites as playable as possible.\n\nYou can also use iDOS for non-gaming purposes, such as word processing, casual programming. Apps in the DOS days are often simpler and surprisingly productive.\n\nKEYBOARD\n\niDOS provides a PC compatible on-screen keyboard with carefully designed layouts for different devices and orientations. The keyboard has a sliding control in landscape mode so that you can keep it from covering critical part of the screen.\n\nBluetooth keyboard is partially supported. We support ESC, function keys, and ordinary CTRL and ALT key bindings. Unfortunately the arrow keys can't be used for game control. You should use a bluetooth game controller instead.\n\nGAMEPAD\n\niDOS provides a virtual gamepad with key bindings that are fairly common in DOS games. You can customize the bindings. The DPAD works in 8-axis way. It can also be toggled into a joystick.\n\nExternal bluetooth game controllers are supported. Make sure your game controller is connected (System Settings->Bluetooth). To customize button bindings, go to iDOS in landscape mode, tap on bluetooth icon on the auto-hiding top bar.\n\nMOUSE\n\n* The screen area serves as a trackpad for moving mouse pointer.\n* Tap on the screen for left click. If direct touch is enabled, the mouse pointer will move to where you tap.\n* Hold one finger on the screen, and tap with another finger for right click.\n* On-screen mouse buttons are also provided for your convenience.\n* Bluetooth mice are only partially supported.\n\nSUPPORT\n\n- Visit https://litchie.com/dospad for more information.\n- Send email to idos@litchie.com\n- Follow the developer on Twitter: https://twitter.com/litchiedev\n- iDOS is open source, report issues on https://github.com/litchie/dospad",
+   "icon": "https://i.imgur.com/Yah6zFk.png",
+   "screenshots": [
+   "https://i.imgur.com/hRMA2Zr.png",
+   "https://i.imgur.com/gvhvQpo.png",
+   "https://i.imgur.com/NHOE1ba.png",
+   "https://i.imgur.com/eBEqmnt.png"
+   ],
+   "changelog": "- Support Mfi game controllers\n- Support external bluetooth keyboard (Text input only).\nYou can use Command-1, Command-2 .. for function keys.",
+   "down": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa"
+   },
+   {
+   "name": "Taurine",
+   "version": "1.1.7-3",
+   "bundleID": "org.coolstar.taurine",
+   "dev": "Odyssey Team",
+   "category": "Jailbreaks",
+   "description": "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+   "icon": "https://taurine.app/assets/images/icon.png",
+   "screenshots": [
+ "https://taurine.app/assets/images/ss-1.png",
+ "https://taurine.app/assets/images/ss-2.png",
+ "https://taurine.app/assets/images/ss-3.png"
+ ],
+ "changelog": "# 1.1.7-3\n\nFix kfd change being implemented incorrectly",
+ "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa"
+ },
    {
    "name": "Provenance EMU",
    "bundleID": "org.provenance-emu.provenance",
