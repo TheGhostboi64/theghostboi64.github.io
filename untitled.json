@@ -50,7 +50,7 @@
   "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa"
   },
   {
-  "name": "VCMI"
+  "name": "VCMI",
   "bundleID": "eu.vcmi.vcmiclient",
   "dev": "VCMI Team",
   "description": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
