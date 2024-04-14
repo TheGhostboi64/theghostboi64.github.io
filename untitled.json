@@ -7,6 +7,7 @@
 {
    "name": "emuThreeDS",
    "version": "1.0.7.1",
+  "dev": "Antique",
    "down": "https://github.com/emuPlace/emuThreeDS/releases/download/v1.0.7.1.2/emuThreeDS_v1.0.7.1.2.ipa",
    "icon": "https://i.imgur.com/XUAH0bL.png",
    "category": "Emulators",
@@ -16,7 +17,7 @@
   {
   "name": "WDBRemoveThreeAppLimit",
   "bundleID": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
-  "dev": "Zhouwel",
+  "dev": "Zhuowei",
   "category": "Utilities",
   "version": "1.0",
   "description": "An app that removes the three app limit for free provisioning. Hit \"Go\" just before installing apps. Should work on iOS 16.1.2 and below / iOS 15.7.1 and below.\n\nThis is very limited:\n\n\u2022 Apps still expire after a week\n\u2022 They still do not get arbitrary entitlements\n\u2022 They still must be signed. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
@@ -29,6 +30,7 @@
   "name": "WDBFontOverride",
   "bundleID": "com.ginsudev.WDBFontOverride",
   "icon": "https://i.imgur.com/SXK4rhS.png",
+  "dev": "Zhuowei + Ginsudev",
   "category": "Utilities",
   "screenshots": [
     "https://user-images.githubusercontent.com/704768/209511898-a1477b66-28e4-471a-87d9-36c1c2eb25ca.png",
