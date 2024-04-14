@@ -432,6 +432,7 @@
  "bundleID": "eu.pokemmo.client",
  "dev": "PokeMMO",
  "version": "26211",
+"description": "PokeMMO", "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
  "icon": "https://pokemmo.com/build/images/altstore.ba9b8a4e.png",
  "screenshots": [
  "https://pokemmo.com/build/images/screenshot/c.f3968293.png",
