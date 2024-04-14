@@ -115,7 +115,7 @@
  "bundleID": "at.spiderlab.c64",
  "dev": "T-Pau",
  "category": "Emulators",
- "description": "Ready",
+ "description": "Ready is an open source emulator for the following 8 bit home computers:\n* Commodore 64\n* Commodore VIC-20\n* Commodore 16, Plus/4\n* Sinclair ZX Spectrum (16k, 48k, Spectrum+, 128k, +2)\n\nWith preliminary support for these computers:\n* Atari 600XL, 800XL\n* Commodore 128\n* Commander X16\n\nIt is based on atari800, fuse, Vice, and x16-emulator, which provide accurate emulation of many hardware variants and peripherals. Ready requires at least iPadOS 13.5.\n\nReady aims to approximate the feeling of using actual hardware. Rather than configuring abstract settings, you select hardware components. The software keyboard is a facsimile of the original, reflecting the different existing styles. Even the noise of the disk drive is emulated. The Library section offers a way to organize a large collection of games, demos and programs. The emulated hardware can be customized for each entry.\n\nThe Inbox provides a place to quickly try new programs. You can easily move the ones you want to keep to the library.\n\nTools mode allows attaching a cartridge like Action Replay or Final Cartridge and a collection of disks with your favorite tools, to help you dig into the programs, like back in the day.",
  "icon": "https://i.imgur.com/S9WS2C2.png",
  "screenshots": ["https://i.imgur.com/CN3fR34.png", "https://i.imgur.com/q8ueM8W.png", "https://i.imgur.com/2EHk0Wp.png", "https://i.imgur.com/F3bXlmW.png"],
  "version": "1.6",
