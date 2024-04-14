@@ -86,7 +86,7 @@
  "category": "Emulators",
  "dev": "yoshisuga & Olivier Goguel",
 "version": "2021.9",
- "description": "# 2021.9\n\nThis is a fork of Olivier Goguel's ActiveGS emulator for iOS.\r\n\r\nI've been tinkering it over the years and added some experimental features such as:\r\n\r\n- Support for iOS 15\r\n- Remap keyboard to supported wireless controller buttons \u0028mFi/PS4/PS5/XBox One\u0029\r\n- Custom split keyboard usable in landscape mode \u0028written in Swift\u0029\r\n\r\n!\u005bSimulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 22 43 15\u005d\u0028https://user-images.githubusercontent.com/564774/134484167-3c17c2a7-1d6a-467c-ac82-d7bfae7f281b.png\u0029\r\n\r\n- A memory debugger/rudimentary memory-editing cheat engine \u0028also written in Swift\u0029. Accessible via the \"D\" button in the right pane custom keyboard. Browse the memory map and change memory values. Not sure how the bank switching works and how it's mapped to memory but you get some representation of memory. \r\n!\u005bSimulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 23 25 55\u005d\u0028https://user-images.githubusercontent.com/564774/134484125-b984318a-b089-4484-b306-b976521963c3.png\u0029\r\n\r\n\r\n",
+ "description": "# 2021.9",
 "screenshots": ["https://i.imgur.com/8xekjhv.png", "https://i.imgur.com/JFd6LiM.png", "https://i.imgur.com/4ZE0DbB.png"],
  "icon": "https://i.imgur.com/7LuLkoR.png",
  "down": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
